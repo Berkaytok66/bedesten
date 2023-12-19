@@ -1,0 +1,218 @@
+{
+ "login": {
+   "email": "Email adresini girin",
+   "password": "Şifrenizi girin",
+   "I_dont_remember_my_password": "Şifremi hatırlamıyorum ?",
+   "reset_my_password": "Şifremi Sıfırla!",
+   "Login_Button": "Giriş Yap",
+   "Dont_you_have_a_search_text_account": "Hesabın Yokmu ?",
+   "register": "Kayıt Ol !",
+   "search_text_or": "Ve Ya",
+   "_errorPassMesage": "Şifre boş bırakılamaz",
+   "_errorMesage": "Kullanıcı adı boş bırakılamaz"
+ },
+  "register": {
+    "user_name" : "Kullanıcı Adınızı Girin",
+    "email" : "Email adresini girin",
+    "Password" : "Şifrenizi Girin",
+    "Register_Button" : "Hesap Oluştur",
+    "I_already_have_an_account" : "Zaten hesabın varmı ?",
+    "Login" : "Giriş yap !",
+    "_errorPassMesage" : "Şifre Boş Bırakılamaz",
+    "_errorEmailMesage" : "Mail Adresi Boş Bırakılamaz",
+    "_errorMesageUserName" : "Kullanıcı Adı Boş Bırakılamaz",
+    "Success": "Başarılı",
+    "Success_Mesage": "Kullanıcı Adınız Ve Şifreniz İle Giriş Sağlayabilirsiniz.",
+    "Failure": "Hata Bulundu",
+    "This_username_already_exists": "Bu kullanıcı adı zaten alınmış.",
+    "This_email_address_is_already_taken": "Bu e-posta adresi zaten alınmış.",
+    "Server_Error": "Sunucu Hatası"
+  },
+  "HelloScren"  : {
+    "HelloTextOnePage" : "Sizin için seçilmiş en yakın teknoloji mağazalarını ve onların benzersiz ürünlerini keşfedin; teknolojinin sınırlarını zorlayan bu ürünlerle tanışarak hayatınıza yenilik katabilirsiniz.",
+    "Start_exploring_BTN" : "Keşife başla",
+    "Comfort_Market" : "Rahat Market",
+    "HelloTextTwoPage" : "Konumunuza yakın teknoloji marketlerini keşfedin, ürünleri karşılaştırın ve markete gitmeden ürün hakkında bilgi alarak fikir edinin.",
+    "Find_the_Product_You_Are_Looking_for" : "Aradığınız Ürünü Bulun",
+    "HelloTextTreePage" : "Aradığınız teknoloji harikasını bulun, favorilerinize kaydedin, satıcı ile doğrudan iletişime geçin ve şehri turlamadan, konforunuzdan ödün vermeden satın alımınızı gerçekleştirin.",
+    "Upload_Products_to_your_Market" : "Marketine Ürünleri Yükle",
+    "HelloTextFourPage" : "Eğer bir satıcıysanız, kendi teknoloji marketinizi kurun, konumunuzu belirleyin ve mağaza bilgilerinizi yükleyin. Müşterilerinizin sizi keşfetmesini kolaylaştırarak hizmet vermeye hemen başlayın ve teknoloji dünyasında fark yaratın.",
+    "So_lets_start" : "Haydi Başlayalım",
+    "HelloTextLoginGoPage" : "Hesabınız ile oturum açın; henüz bir hesabınız yoksa, birkaç basit adımda yeni bir hesap oluşturarak bize katılın.",
+    "Sing_Up" : "Giriş Yap",
+    "Sing_in" : "Kayıt Ol",
+    "Dont_have_an_account" : "Hesabın Yokmu ?",
+    "Skip" : "Geç"
+  },
+  "navbar_roots": {
+    "Bedesten": "Bedesten",
+    "Messages": "Mesajlar",
+    "My_Favorites": "Favorilerim",
+    "Settings": "Ayarlar",
+    "bill": "Hesap"
+  },
+  "home_design_course": {
+    "Home_Page" : "Ana Sayfa",
+    "Search" : "Ara (örnek : Iphone 11)",
+    "Tradesmen" : "Esnaflar",
+    "Businesses_Offering_Sales_Services" : "Satış Hizmeti Sunan İşletmeler",
+    "Repair": "Onarım",
+    "Businesses_Providing_Repair_Services": "Onarım Hizmeti Sunan İşletmele",
+    "2nd_hand": "2.El",
+    "Users_Who_Sell": "Satış yapan kullanıcılar",
+    "Category": "Kategori"
+  },
+  "home_dessign_list_view": {
+    "product" : "Ürün"
+  },
+  "home_dessign_course": {
+    "about_us": "Hakkımızda",
+    "Experience": "Tecrübe",
+    "Services": "Hizmetler",
+    "Total_product": "Toplam Ürün",
+    "Accessory": "Aksesuar",
+    "Explanation": "Acıklama",
+    "Browse_Products": "Ürünlere Göz At"
+  },
+  "BaiScrenn": {
+    "Products": "Ürünler"
+  },
+  "PhoneInfoPage": {
+    "Detail": "Detaylar",
+    "Device_Status": "Cihaz Durumu",
+    "BRAND": "MARKA",
+    "MODEL": "MODEL",
+    "COLOUR": "RENK",
+    "GUARANTEE": "GARANTİ",
+    "Till": "KASA",
+    "Screen": "EKRAN",
+    "Battery": "BATARYA",
+    "Camera": "KAMERA",
+    "device_status": "Durum"
+  },
+  "Repair_home_page": {
+    "product" : "d"
+  },
+  "MessagesMainPage" : {
+    "Messages" : "Mesajlarım",
+    "WriteYourMessage" : "Mesajınızı Yazın...",
+    "SearchMyMessages" : "Mesajlarımda Ara"
+  },
+  "FavoriteScreen": {
+    "Favorite_Market" : "Favori Market",
+    "MyFavorites" : "Favorilerim",
+    "Favorite_Products" : "İLANLARIM",
+    "Favorite_Markets" : "FAVORİLER"
+  },
+  "SettingScreenHome": {
+    "Profile" : "Ayarlar",
+    "Profile_Settings" : "Profil Ayarları",
+    "Classifieds" : "İlanlarım",
+    "My_business" : "İşletmem",
+    "View_Package" : "Paket Görüntüle",
+    "Notification_Settings" : "Bildirim Ayarları",
+    "About_Us" : "Hakımızda",
+    "General_Settings" : "Genel Ayarlar",
+    "Log_Out" : "Cıkış yap",
+    "Logging_out_Please_Wait" : "Çıkış yapılıyor Lütfen Bekleyin..."
+
+
+  },
+  "SettingProfileScreenHome" : {
+    "save" : "Kaydet",
+    "Basic_Knowledge" : "Temel Bilgiler",
+    "User_Name" : "Kullanıcı Adı",
+    "write_something_about" : "Hakkında bir şey yaz",
+    "Contact_information" : "İletişim Bilgileri",
+    "Email_address" : "E-Posta Adresi",
+    "Update_My_Password" : "Şifremi Güncelle",
+    "Your_password_has_been_successfully_updated" : "Şifreniz başarılı bir şekilde güncellendi",
+    "successfully" : "Başarılı",
+    "Error_Found" : "Hata Bulundu",
+    "An_error_was_encountered_while_updating_the_password_Mistake" : "Şifre güncellenirken bir hata ile karşılaşıldı. Hata :",
+    "A_connection_to_the_server_could_not_be_established_Mistake" : "Sunucu ile bağlantı kurulamadı. Hata : ",
+    "Something_Went_Wrong" : "Bir hata oluştu !!!",
+    "Unknown_Error" : "Bilinmeyen Hata",
+    "Set_a_valid_password" : "Geçerli bir şifre şelirleyin...",
+    "The_entered_password_does_not_match" : "Geçerli bir şifre şelirleyin...",
+    "Please_enter_your_password_again" : "Lütfen Şifrenizi Tekrar Girin...",
+    "The_new_password_cannot_be_left_blank" : "Yeni şifre boş bırakılamaz...",
+    "Current_password_cannot_be_left_blank" : "Mevcut şifre boş bırakılamaz...",
+    "Change_Password" : "Şifreyi Değiştir",
+    "Change_Password_info_one" : "Birisi hesabına erişmeye çalışıyorsa, hesabını korumak için bunun dışındaki tüm oturumlardan çıkışın yapılacak.",
+    "Change_Password_info_Two" : "Şifren en az 8 karakter olmalı ve rakamlar ve harflerden oluşmalıdır.",
+    "Current_password_Updated" : "    Mevcut şifre Son Güncelleme Tarihi : ",
+    "Current_Password" : "Mevcut şifre",
+    "New_Password" : "Yeni şifre",
+    "Retype_new_password" : "Yeni şifreyi tekrar yaz",
+    "Did_you_forget_your_password" : "Şifreni mi unuttun?"
+  },
+  "AboutUsPage":{
+    "About": "Hakkında",
+    "Privacy_Policy": "Gizlilik İlkesi",
+    "Terms_of_Use": "Kullanım Koşulları",
+    "Contact_information": "İletişim Bilgileri"
+  },
+  "GeneralSettings": {
+    "GeneralSettingsTitle": "Genel Ayarlar",
+    "ThemesSettings" : "Tema Ayarları"
+  },
+  "EklePage": {
+    "EklePageTitle": "Ürününü Yayınla",
+    "Crop_Selected_Image": "Ürününü Yayınla",
+    "Add_Image": "Resim Ekle",
+    "brand": "Marka",
+    "Determine_the_Brand_of_the_Device_Show_Dialog": "Cihazın Markasını Belirleyin",
+    "What_is_a_Brand": "Marka Nedir?",
+    "Type_Your_Device_Model": "Cihaz Modelinizi Yazın",
+    "Colour": "Renk",
+    "What_is_the_Color_of_the_Device": "Cihazın Rengi Nedir ?",
+    "What_is_Color": "Renk Nedir",
+    "Advert_title": "İlan Başlığı*",
+    "Explain_What_You_Sell": "Ne Sattığını Açıkla*",
+    "Publish": "Yayınla",
+    "CANCEL": "İPTAL"
+  },
+  "BuyPremiumPage": {
+    "Premium_Package": "Premium",
+    "Premium_Package_info": "Premium paket ayrıcalıklarıyla hemen tanışın.",
+    "Shop": "Mağaza",
+    "Store_description": "İşletmenizin benzersiz ürünlerini dijital dünyaya taşıyarak daha geniş bir müşteri kitlesine ulaşın!",
+    "Repair": "Tamir",
+    "Repair_description": "Hizmetlerinizi dijitalleştirin ve tamir servisinizi çevrimiçi bir platforma taşıyarak daha fazla müşteriye erişin",
+    "Remove_ads": "Reklam kaldır",
+    "package_information": "Premiuma katılmak için paketleri görüntüleyin.",
+    "Silver_Badge": "Gümüş Rozet",
+    "Silver_Badge_info": "Premium pakete üye olarak gümüş rozet kazanın.",
+    "Remove_ads_description": "Daha sade bir Bedesten deneyimi yaşamak için reklamlardan kurtulun.",
+    "month": "Ay",
+    "Monthly": "Aylık Plan",
+    "Premium_Package_info_pro": "Güncel Premium Paketiniz.",
+    "iptal_txt": "İstediğiniz zaman iptal edebilirsiniz."
+  },
+  "RepairPage" : {
+    "Bai_Name": "Bayi İsminiz",
+    "Bai_Name_info": "Bayi İsminiz, Kullanıcı Adınız ile aynıdır.",
+    "locasyon": "Konumunuz",
+    "locasyon_info": "Buttona basarak güncelleyebilirsiniz.",
+    "A_Few_Words_About_the_Service_I_Provide": "Verdiğim Hizmet Hakkında Birkaç Kelime*",
+    "For_example_you_can_provide_information_about_software_and_iOS_repair": "Örneğin, yazılım ve iOS tamiri hakkında bilgi verebilirsin.*"
+
+  },
+  "TamirInfoPage": {
+    "Services": "Hizmetler",
+    "Fix": "Tamir",
+    "Software_Repair": "Yazılım Tamir",
+    "Expertise": "Uzmanlık",
+    "Estimated_repair_time": "Tahmini tamir süresi",
+    "Explanation": "Açıklama"
+  },
+  "UpdateAndRemoveAd": {
+    "Product_Name": "İlan Başlığı",
+    "price": "Fiyat",
+    "Brand_Model": "Marka Modeli"
+  },
+  "SelectedModel": {
+    "Search_for_brand": "Markalarda ara"
+  }
+}

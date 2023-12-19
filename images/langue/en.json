@@ -1,0 +1,12 @@
+{
+  "login": {
+    "email": "Email Adresini Girin",
+    "sifre": "Şifrenizi girin",
+    "sifremi_hatirlamiyorum": "Şifremi hatırlamıyorum ?",
+    "sifremi_sifirla": "Şifremi Sıfırla!",
+    "giris_yap": "Giriş Yap",
+    "ara_text_hesabin_yokmu": "Hesabın Yokmu ?",
+    "kayit_ol": "Kayıt Ol !",
+    "ara_text_ve_ya": "Ve Ya"
+  }
+}
